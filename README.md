@@ -9,3 +9,6 @@ but have been overwritten in a later commit. For example passwords or secret tok
 ## Examples
 	archaeologit.sh USERNAME 'password.....|secret.....|passwd.....|credentials.....|creds.....|aws.?key.....|consumer.?key.....|api.?key.....|aws.?token.....|oauth.?token.....|access.?token.....|api.?token.....'
 	archaeologit.sh peterjaric 'password|secret|token' scan.log
+
+## Example output
+![Example output when running archaeologit](example_output.png)
