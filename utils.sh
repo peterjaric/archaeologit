@@ -1,4 +1,7 @@
 #!/bin/bash
+# This file is part of archaeologit which is released under the MIT license. See LICENSE.md.
+# Archaeologit was originally written by Peter Jaric <peter@jaric.org>
+
 # Fail script immediately if something goes wrong
 set -e
 

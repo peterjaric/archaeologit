@@ -1,4 +1,7 @@
 #!/bin/bash
+# This file is part of archaeologit which is released under the MIT license. See LICENSE.md.
+# Archaeologit was originally written by Peter Jaric <peter@jaric.org>
+
 DESCRIPTION=\
 "This script scans the history of a user's GitHub repositories
 for a given pattern to find sensitive things that may have been there
