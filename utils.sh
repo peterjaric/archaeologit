@@ -21,7 +21,7 @@ UNDERLINE_END=$(${TPUT} rmul)
 # -n No new line
 # In message: _S_ -> Start underlining, _E_ -> Stop underlining
 log() {
-    local OPTIND
+		local OPTIND
 		local SUPPRESS_DATE
 		local SUPPRESS_NEWLINE
 		local OVERWRITE
@@ -94,5 +94,5 @@ fi
 SED_BIN=sed
 if which gsed > /dev/null 
 then
-	SED_BIN=gsed
+		SED_BIN=gsed
 fi
